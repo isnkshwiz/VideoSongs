@@ -1,5 +1,18 @@
 # VideoSongs
 
+## NINETEEN → TWENTY
+
+[Скачать ролик](https://github.com/isnkshwiz/VideoSongs/raw/refs/heads/main/NINETEEN_TO_TWENTY.mp4)
+
+![Кадр из NINETEEN → TWENTY](NINETEEN_TO_TWENTY_preview.jpg)
+
+Сюжетный 2.5D-ролик: разрушительный подростковый образ жизни, исчезновение TEEN при переходе NINETEEN → TWENTY, возвращение к семье, учёба и работа. В полночь бутылка превращается в букет, а город — в родительский дом.
+
+- 45 секунд, вертикально 1080 × 1920, 30 кадров/с
+- MP4, H.264 / AAC
+- Музыка: Crystal Castles — Kerosene (выделенная инструментальная дорожка), NAPA — Deslocado
+- Английские надписи и отдельно синтезированный голос возрастов
+
 ## SURAQTAR — NINETY ONE
 
 [Скачать видеоролик](https://github.com/isnkshwiz/VideoSongs/raw/refs/heads/main/SURAQTAR_lyric_video.mp4)
