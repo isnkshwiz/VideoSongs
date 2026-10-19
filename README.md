@@ -1,5 +1,17 @@
 # VideoSongs
 
+## SURAQTAR — NINETY ONE
+
+[Скачать видеоролик](https://github.com/isnkshwiz/VideoSongs/raw/refs/heads/main/SURAQTAR_lyric_video.mp4)
+
+![Кадр из ролика SURAQTAR](SURAQTAR_preview.jpg)
+
+Цвета и круглая композиция вдохновлены присланными кадрами: алый, жёлтый, фиолетовый и бирюзовый; объёмная графика и подсветка казахского текста сверху.
+
+- Длительность: 27,6 секунды
+- Формат: MP4, H.264 / AAC
+- Разрешение: 1080 × 1080, 30 кадров/с
+
 ## KETPE — Dasdinlovee
 
 [Скачать видеоролик](../../raw/refs/heads/main/KETPE_lyric_video.mp4)
