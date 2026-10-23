@@ -1,14 +1,14 @@
 # VideoSongs
 
-## LADY — NINETY ONE · Winter
+## LADY — NINETY ONE · Winter Motion
 
-[Скачать зимний ролик](https://github.com/isnkshwiz/VideoSongs/raw/refs/heads/main/LADY_WINTER_lyric_video.mp4)
+[Скачать ролик](https://github.com/isnkshwiz/VideoSongs/raw/refs/heads/main/LADY_WINTER_lyric_video.mp4)
 
-![Кадр из зимнего ролика LADY](LADY_WINTER_preview.jpg)
+![Кадр из LADY — Winter Motion](LADY_WINTER_MINIMAL_preview.jpg)
 
-Зимний лирический ролик по мотивам бело-бордовой обложки: снег, тёплые фонари, морозное окно, красные шарфы и встреча у замёрзшего озера. Казахский текст подсвечивается по вокалу.
+Минималистичный motion design: крупная типографика, матовое стекло, холодный свет, геометрические формы и плавные переходы. Казахский текст подсвечивается по вокалу.
 
-- 30 секунд, вертикально 1080 × 1920, 30 кадров/с
+- 30 секунд, квадрат 1080 × 1080, 30 кадров/с
 - MP4, H.264 / AAC
 - Музыка: NINETY ONE — LADY, предоставленный отрывок
 
